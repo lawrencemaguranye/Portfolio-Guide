@@ -1,2 +1,2 @@
 # Portfolio-Guide
-This is a repository that showcases my portfolio.
+This is a a guide and summary that showcases all my projects and case studies.
