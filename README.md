@@ -13,7 +13,7 @@ Chat with me on [LinkedIn](https://www.linkedin.com/in/lawrence-t-maguranye-8673
 
 | Project Name | Area of Analysis | Project Description | 
 |---|---|---|
-| 🛍 [RFM Segmentation Sales Analysis](https://github.com/lawrencemaguranye/Learn-SQL/tree/main/RFM%20Segmentation%20Sales%20Analysis) | Analyzing past purchase behavior to segment customers | In this case I use RFM technique as a way of segmenting customers using three key metrics: 1. Recency - how long ago their last purchase was. 2. Frequency - how often they purchase. 3. Monetary value - how much they spent. | 
+|  |  |  | 
  
 ***
 
